@@ -1,0 +1,815 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd to the Society, for reformation of manners at Kingstone upon Thames, on July 17th 1700. Publish'd at the request of the Society. By Daniel Mayo, M.A. minister of the gospel in that town.</title>
+            <author>Mayo, Daniel, 1672?-1733.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50459</idno>
+            <idno type="STC">Wing M1520A</idno>
+            <idno type="STC">ESTC R221865</idno>
+            <idno type="EEBO-CITATION">99833112</idno>
+            <idno type="PROQUEST">99833112</idno>
+            <idno type="VID">37587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37587)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2191:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd to the Society, for reformation of manners at Kingstone upon Thames, on July 17th 1700. Publish'd at the request of the Society. By Daniel Mayo, M.A. minister of the gospel in that town.</title>
+                  <author>Mayo, Daniel, 1672?-1733.</author>
+               </titleStmt>
+               <extent>[10], 48, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Lawrence at the Angel in the Poultry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCC. [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With 3 final advertisment leaves.</note>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original in Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXIX, 1 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37587:1" rendition="simple:additions"/>
+            <p>A SERMON PREACH'D to the SOCIETY, FOR <hi>Reformation</hi> of <hi>Manners;</hi> AT <hi>Kingſtone</hi> upon <hi>Thames,</hi> On <hi>July 17th</hi> 1700.</p>
+            <p>
+               <hi>Publiſh'd at the Requeſt of the <hi>Society.</hi>
+               </hi>
+            </p>
+            <p>By <hi>DANIEL MAYO,</hi> M. A. <hi>Minister of the Goſpel in that</hi> Town.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Lawrence</hi> at the <hi>Angel</hi> in the <hi>Poultry,</hi> MDCC.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37587:2"/>
+            <pb facs="tcp:37587:2"/>
+            <head>THE EPISTLE DEDICATORY, To the WORSHIPFULL
+<list>
+                  <item>Mr. <hi>Thomas Edmonds.</hi> Bailiff.</item>
+                  <item>Mr. <hi>John Lambe.</hi> Bailiff.</item>
+                  <item>Mr. <hi>Charles Salter.</hi>
+                  </item>
+                  <item>Mr. <hi>Nathanael Brandling,</hi>
+                  </item>
+               </list> Juſtices of the Peace in the <hi>Town</hi> and <hi>Cor<g ref="char:EOLhyphen"/>poration</hi> of <hi>Kingſton</hi> upon <hi>Thames.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen;</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Was the more Willing, when Deſir'd, to Publiſh the follow<g ref="char:EOLhyphen"/>ing <hi>Diſcourſe,</hi> Becauſe I thought I might thereby have an Opportu<g ref="char:EOLhyphen"/>nity
+<pb facs="tcp:37587:3"/>of giving a <hi>Public Teſtimo<g ref="char:EOLhyphen"/>ny</hi> of your Chearful Concurrence with, and Encouragement of, thoſe <hi>Perſons,</hi> who are United in a <hi>So<g ref="char:EOLhyphen"/>ciety,</hi> in order to Aſſiſt you in the <hi>Neceſſary Work</hi> of Reforming ſuch as are <hi>Enemies,</hi> not only to themſelves; But alſo to the <hi>Town</hi> and <hi>Corporation</hi> in which God hath Placed you, for a Time, in the Higheſt Station: And alſo, that I might take this <hi>Fair Occaſion</hi> Faithfully to put you in Mind of <hi>your Duty.</hi>
+            </p>
+            <p>'Twas the Saying of <hi>Solon,</hi> That in his Time, there were ma<g ref="char:EOLhyphen"/>ny <hi>Good Laws</hi> made; But there wanted One more, to make 'em put
+<pb facs="tcp:37587:3"/>
+               <hi>thoſe in Execution.</hi> 'Tis too evi<g ref="char:EOLhyphen"/>dent, the <hi>Good</hi> and <hi>Wholſom Laws</hi> of this Realm againſt <hi>Immo<g ref="char:EOLhyphen"/>rality</hi> and <hi>Profaneneſs,</hi> are not <hi>put in Execution.</hi> Where the Blame doth Principally lye, I will not, at preſent, Enquire; But ra<g ref="char:EOLhyphen"/>ther Pray, that <hi>Forreigners</hi> may have no Occaſion any more, to Ac<g ref="char:EOLhyphen"/>cuſe our <hi>Famous Nation,</hi> of Be<g ref="char:EOLhyphen"/>ing the Beſt in the <hi>World</hi> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake <hi>Laws,</hi> and Worſe than any to Exe<g ref="char:EOLhyphen"/>cute them: And that you in parti<g ref="char:EOLhyphen"/>cular may not be found <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in this Reſpect, when you are called to <hi>Give an Account of your Stew<g ref="char:EOLhyphen"/>ardſhip.</hi>
+            </p>
+            <p>Let the <hi>Cenſures</hi> of <hi>Cri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cal
+<pb facs="tcp:37587:4"/>Readers</hi> be never ſo many, or ſe<g ref="char:EOLhyphen"/>vere, either concerning my <hi>Diſ<g ref="char:EOLhyphen"/>courſe</hi> it ſelf, or the <hi>Publication</hi> thereof; I have this to Comfort me, That my Sincere Deſire, and Endeavour alſo (tho' never ſo mean) was to <hi>Promote</hi> the <hi>Common Good:</hi> And if you can ſay ſo, when your <hi>Publick Office</hi> is ended with the Year; or if before that, Death ſhould bring you a <hi>Quietus eſt,</hi> and ſummons you to give up your Accounts, <hi>you will do it with Joy, and not with Grief.</hi>
+            </p>
+            <p>Tho' you have not the <hi>Sword</hi> as well as the <hi>Mace,</hi> born before you in <hi>State,</hi> as ſome other <hi>Magiſtrates</hi> have; yet you have a <hi>Sword</hi> put
+<pb facs="tcp:37587:4"/>into <hi>Your Hands</hi> by <hi>God Him<g ref="char:EOLhyphen"/>ſelf,</hi> which you <hi>muſt not Bear in vain;</hi> But therewith <hi>Protect</hi> the <hi>Good,</hi> and <hi>Puniſh</hi> the <hi>Bad.</hi> The <hi>Worldly Honour</hi> and <hi>Profits</hi> that you Reap by Virtue of your <hi>Office,</hi> will <hi>only ſerve</hi> to aggra<g ref="char:EOLhyphen"/>vate <hi>your ſhame</hi> and <hi>loſs</hi> in the <hi>end;</hi> If <hi>when God weighs you in the Ballances</hi> of his Juſtice, <hi>you are found wanting,</hi> and it ſhall appear that you have made <hi>no uſe</hi> or a <hi>bad one,</hi> of all <hi>your Intereſt</hi> and <hi>Authority.</hi>
+            </p>
+            <p>The <hi>Laws of the Land</hi> Oblige you, under <hi>Great Penalties,</hi> Im<g ref="char:EOLhyphen"/>partially to <hi>Puniſh</hi> ſuch <hi>Crimes</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you your Selves are <hi>Witneſſes</hi> of
+<pb facs="tcp:37587:5"/>And you can't refuſe to take the <hi>In<g ref="char:EOLhyphen"/>formation</hi> of Others: But if you have no <hi>Better Principle</hi> than <hi>Fear of a Pecuniary Mulct,</hi> to <hi>In<g ref="char:EOLhyphen"/>fluence you,</hi> The <hi>Common Good</hi> is not Likely to be <hi>much Promo<g ref="char:EOLhyphen"/>ted by you.</hi> Conſider therefore the <hi>Oath of God is upon you.</hi> The <hi>End</hi> and <hi>Uſefulneſs</hi> of your Office, The <hi>Wellfare of your Neigh<g ref="char:EOLhyphen"/>bours,</hi> and <hi>Your own Safety,</hi> are <hi>Obligations upon you</hi> to <hi>Pre<g ref="char:EOLhyphen"/>vent,</hi> or if that can't be, to <hi>Pu<g ref="char:EOLhyphen"/>niſh</hi> ſuch ſins as are Deſtructive to <hi>private perſons,</hi> and <hi>Whole Communities.</hi>
+            </p>
+            <p>Give me leave to deſire <hi>your Serious Peruſal</hi> of the <hi>Firſt Di<g ref="char:EOLhyphen"/>rection,</hi>
+               <pb facs="tcp:37587:5"/>towards the End of the <hi>enſuing Diſcourſe, p. 10.</hi> Par<g ref="char:EOLhyphen"/>ticularly, beware of ſuch ſins <hi>your Selves,</hi> that you cannot Avoid <hi>pu<g ref="char:EOLhyphen"/>niſhing Others</hi> for, <hi>if any Call for Juſtice.</hi> And, methinks, it muſt be <hi>with an Aking Heart,</hi> and a <hi>Trembling Hand,</hi> that a <hi>Vici<g ref="char:EOLhyphen"/>ous Magiſtrate Signs a War<g ref="char:EOLhyphen"/>rant</hi> for the <hi>puniſhment</hi> of thoſe <hi>Vices</hi> he Loves and Lives in him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>Let your <hi>Zeal for God</hi> Pro<g ref="char:EOLhyphen"/>voke and Encourage Others: And as you have the Praiſe of <hi>Good Men,</hi> and, I hope, the <hi>Approbati<g ref="char:EOLhyphen"/>on of God,</hi> which is far greater; For the Good you, or any of you
+<pb facs="tcp:37587:6"/>have done already: So let your <hi>Ef<g ref="char:EOLhyphen"/>forts</hi> againſt <hi>Vice,</hi> towards the <hi>Concluſion of your Office,</hi> be the ſtrongeſt.</p>
+            <p>That God would pleaſe to Bleſs and Proſper this <hi>Whole Town</hi> and <hi>Corporation;</hi> and, in parti<g ref="char:EOLhyphen"/>cular, your <hi>Perſons</hi> and <hi>Families,</hi> is, and ſhall be, the Prayer of,</p>
+            <closer>
+               <salute>Gentlemen,</salute> 
+               <signed>
+                  <hi>Your Faithful Servant, eſpe<g ref="char:EOLhyphen"/>cially in the Work of the</hi> Goſpel, Daniel Mayo</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:37587:6"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. xxix. 1.</hi>
+                  </bibl>
+                  <p>He that being often Reproved, Hardneth his Neck, ſhall ſuddenly be Deſtroyed, and that without Remedy.</p>
+               </q>
+            </epigraph>
+            <head>In which Words you may Ob<g ref="char:EOLhyphen"/>ſerve <hi>Three Parts.</hi>
+            </head>
+            <p n="1">I. A Duty and a Privilege <hi>im<g ref="char:EOLhyphen"/>ply'd,</hi> viz. Frequent Re<g ref="char:EOLhyphen"/>proof; in theſe words, <hi>He that being often reprov'd.</hi>
+            </p>
+            <p n="2">II. An heinous Sin <hi>ſuppoſed,</hi> viz. Ob<g ref="char:EOLhyphen"/>ſtinacy and Incorrigibleneſs; in theſe words, <hi>hardneth his neck.</hi>
+            </p>
+            <p n="3">III. A Dreadful Threatning <hi>denoun<g ref="char:EOLhyphen"/>ced</hi> againſt ſuch Sinners, and for this Sin, <hi>viz. Sudden</hi> and <hi>Remedileſs Deſtru<g ref="char:EOLhyphen"/>ction;</hi> in theſe words, <hi>ſhall ſuddenly be destroy'd, and that without remedy.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:37587:7"/>
+I ſhall Treat of each of theſe Points diſtinctly, and then Conclude with ſuch an Application as is ſuited <hi>to my preſent Auditory,</hi> and the Occaſion of this Aſ<g ref="char:EOLhyphen"/>ſembly.</p>
+            <p n="1">I. There is a Duty and a Privilege <hi>imply'd,</hi> viz. Frequent Reproof I ſay a <hi>Duty</hi> and a <hi>Privilege,</hi> for 'tis both the one and the other: For I ſhall make it appear, 'tis the Duty of ſome Fre<g ref="char:EOLhyphen"/>quently to <hi>Reprove,</hi> and the Privilege of others to be frequently <hi>Reproved.</hi> And I am obliged to take notice of this Fre<g ref="char:EOLhyphen"/>quent Reproof, in an <hi>Active</hi> and <hi>Paſſive</hi> ſignification; Becauſe, in the <hi>Original</hi> it is,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Verl. Sep<g ref="char:EOLhyphen"/>tuag. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> as in the <hi>Margin</hi> of your Bibles, <hi>A Man of Reproofs,</hi> &amp;c. So that the meaning of the <hi>Text</hi> may be <hi>this,</hi> He that frequently Reproves others, and, at the ſame time, is, and remains Guil<g ref="char:EOLhyphen"/>ty himſelf, ſhall be ſuddenly deſtroy'd, and that without Remedy. And this is an Undoubted Truth, and what I ſhall again take notice of in the <hi>Applica<g ref="char:EOLhyphen"/>tion.</hi> Tho' I rather think the Meaning of the <hi>Text</hi> is, as our <hi>Tranſlators</hi> Render
+<pb n="3" facs="tcp:37587:7"/>it, and as the Generality of <hi>Expoſitors</hi> underſtand it. That the Offender that remains Obſtinate, and Unreformed, notwithſtanding he hath enjoy'd the Privilege of being Frequently Repro<g ref="char:EOLhyphen"/>ved, ſhall certainly <hi>and ſuddenly be de<g ref="char:EOLhyphen"/>ſtroy'd.</hi>
+            </p>
+            <p>That we may the better Underſtand whoſe Duty it is to Reprove, and how it appears that 'tis a Privilege to be Re<g ref="char:EOLhyphen"/>prov'd; We muſt take notice of a Two<g ref="char:EOLhyphen"/>fold Reproof; <hi>Fraternal,</hi> and <hi>Authori<g ref="char:EOLhyphen"/>tative.</hi>
+            </p>
+            <p n="1">1. There is a <hi>Fraternal</hi> Reproof; which is, A certain Cenſure of a Bro<g ref="char:EOLhyphen"/>ther's Evil Words or Actions, either by our Speech or Behaviour; whereby the Guilty Party may be made ſenſible of, and brought to Repentance for his Sin, and Induced to a Future Amend<g ref="char:EOLhyphen"/>ment.</p>
+            <p>This is the Duty of every one, when there is Juſt Occaſion. 'Tis one Pre<g ref="char:EOLhyphen"/>cept of the <hi>Law of Kindneſs;</hi> and, a Branch of that Love, which is <hi>the fulfil<g ref="char:EOLhyphen"/>ling of the Law.</hi> Without this we can<g ref="char:EOLhyphen"/>not
+<pb n="4" facs="tcp:37587:8"/>Acquit our ſelves, as having Faith<g ref="char:EOLhyphen"/>fully Diſcharg'd our Duty, which re<g ref="char:EOLhyphen"/>quires us to <hi>Love our Neighbour as our ſelves:</hi> And, Be not Deceived; It is Impoſſible to <hi>Love God with all our Heart and Soul,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 22.37-40.1 <hi>Joh.</hi> 4.20.</note> 
+               <hi>and Mind and Strength,</hi> if we do not <hi>Love our Brother alſo.</hi>
+            </p>
+            <p>Now, if we do not <hi>Reprove</hi> our Of<g ref="char:EOLhyphen"/>fending Brother, we do not <hi>Love</hi> him; nay, we <hi>Hate</hi> him in our Hearts. For ſo much is plainly Imply'd in that <hi>Text,</hi> where the Duty I am ſpeaking <hi>of,</hi> is plainly Commanded, Levit. 19.17. <hi>Thou ſhalt not hate thy Brother in thine Heart; Thou ſhalt in any wiſe Rebuke thy Neigh<g ref="char:EOLhyphen"/>bour, and not ſuffer Sin upon him.</hi> There is no difficulty to underſtand who are Obliged by this Command; For it con<g ref="char:EOLhyphen"/>cerns <hi>every ſingle perſon.</hi> Nor is it hard to know, who are to be Reprov'd. 'Tis our <hi>Offending Brother,</hi> called alſo in the Latter Part of the Verſe, <hi>our Neighbour.</hi> But if any ſhould go about to Excuſe Themſelves, as the <hi>Lawyer</hi> endeavour'd to Juſtify himſelf by Asking, <hi>Who is my Neighbour?</hi> I refer him, for an Anſwer,
+<pb n="5" facs="tcp:37587:8"/>to our Bleſſed Saviour, <hi>That Teacher come from God,</hi> Mat. 10.30-37.</p>
+            <p>Our Saviour himſelf ſaith,<note place="margin">
+                  <hi>Iuk.</hi> 17.3.</note> 
+               <hi>If thy Bro<g ref="char:EOLhyphen"/>ther Treſpaſs againſt Thee, Rebuke him.</hi> And, 'tis certainly no leſs your Duty, if he Treſpaſs againſt God or his own Soul. And therefore, in other places of Scri<g ref="char:EOLhyphen"/>pture, this Duty is more <hi>Generally</hi> laid down, in ſuch Expreſſions as theſe.</p>
+            <p>
+               <hi>Warn the unruly:</hi>
+               <note place="margin">1 <hi>Theſ.</hi> 5.14. <hi>Coloſ.</hi> 3.16.</note> 
+               <hi>Let the word of Chriſt dwell richly in you, with all Wiſdom, Teach<g ref="char:EOLhyphen"/>ing and Admoniſhing one another.</hi>
+            </p>
+            <p>This Duty may be perform'd by our Words, tho', ordinarily, 'tis moſt Effi<g ref="char:EOLhyphen"/>cacious when 'tis done by our Actions: And perhaps that may be the Meaning of the <hi>Apoſtle,</hi> when he Exhorts the <hi>E<g ref="char:EOLhyphen"/>pheſians,</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 5.11.</note> 
+               <hi>To have no Fellowſhip with the unfruitful works of Darkneſs; But ra<g ref="char:EOLhyphen"/>ther to reprove them</hi> this way, <hi>viz.</hi> By abſtaining from them themſelves. St. <hi>Peter</hi> gives this Honourable Teſti<g ref="char:EOLhyphen"/>mony of Righteous <hi>Lot; That he Li<g ref="char:EOLhyphen"/>ving among the Sinners of</hi> SODOM <hi>and</hi> GOMORRHA,<note place="margin">2 <hi>Pet.</hi> 2.8.</note> 
+               <hi>vexed his Righteous Soul from day to day with their <g ref="char:V">Ʋ</g>nlawful Deeds.</hi> And, 'tis not to be queſtion'd,
+<pb n="6" facs="tcp:37587:9"/>But that his Righteous Words, and Actions too, Reprov'd their Wicked Deeds, or elſe, tho' he might have been a <hi>Preacher,</hi> he would not have been a <hi>Practicer of Righteouſneſs.</hi>
+            </p>
+            <p>But, altho' this <hi>Fraternal Reproof</hi> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Duty Commanded by God, in order to the Good of our <hi>Neighbour,</hi> and is a Part or Teſtimony of our Love to an Offending Brother; yet 'tis to be per<g ref="char:EOLhyphen"/>formed only where there is juſt occaſi<g ref="char:EOLhyphen"/>on. And, withal, 'tis a Poſitive Com<g ref="char:EOLhyphen"/>mand; which, although it is an Abi<g ref="char:EOLhyphen"/>ding Obligation upon us, to perform the Duty Commanded, yet doth it not require the Performance thereof at all times. And there is one <hi>Time,</hi> or <hi>Sea<g ref="char:EOLhyphen"/>ſon,</hi> to name no more, when this Duty of <hi>Fraternal Reproof</hi> is not to be per<g ref="char:EOLhyphen"/>form'd, or at leaſt not <hi>Alone:</hi> Before I Name it, Let me beſeech you not to make an Ill Uſe of it, either to Countenance your <hi>Cowardiſe,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>charitableneſs.</hi> The Time, I mean, is this: When there is Evident Rea<g ref="char:EOLhyphen"/>ſon to Conclude, 'twill do the Party Reproved no Good; and the Repro<g ref="char:EOLhyphen"/>ver
+<pb n="7" facs="tcp:37587:9"/>much Hurt. Then the Advice of the <hi>Wiſe Man</hi> takes Place;<note place="margin">
+                  <hi>Prov.</hi> 9.7, 8.</note> 
+               <hi>Not to Re<g ref="char:EOLhyphen"/>prove a Scorner, leaſt he hate thee. For he that Reproveth a Scorner, getteth to himſelf ſhame: and he that rebuketh a Wicked Man, getteth himſelf a Blot.</hi>
+            </p>
+            <p>There are ſuch <hi>Swine,</hi> before whom <hi>this</hi> Pearl is not to be caſt: For, if you do, they'l ſhew they have the Rage and Cruelty of a Wild <hi>Bore,</hi> as well as the Fierceneſs of an ordinary Swine, and turn again and Rent you; or, at leaſt, do their Utmoſt to De<g ref="char:EOLhyphen"/>ſtroy you: And, to ſuch Snarling Dogs, This Holy Thing is not to be Given. I Speak no harder words then our Sa<g ref="char:EOLhyphen"/>viour did, as you may find, <hi>Mat.</hi> 7.9.</p>
+            <p>'Tis alſo the <hi>Precept</hi> of our Lord, tho' too often Abuſed;<note place="margin">
+                  <hi>Matth.</hi> 10.16.</note> That we ſhould not only be <hi>as harmleſs as Doves;</hi> But alſo, <hi>as wiſe as Serpents.</hi> And this Di<g ref="char:EOLhyphen"/>rection of our Saviour, will Juſtify and Commend the Cuſtom of <hi>Magistrates;</hi> who, in Complyance with the Rea<g ref="char:EOLhyphen"/>ſonable Requeſt of this and other-like Societies, do ordinarily conceal their Names, who Inform them of the Scan<g ref="char:EOLhyphen"/>dalous
+<pb n="8" facs="tcp:37587:10"/>Crimes of ſuch, who do, by their Enormities, ſeem to ſay, They do not <hi>Regard Man;</hi> as 'tis evident, they do not <hi>Fear God.</hi>
+            </p>
+            <p>In ſuch Sad Caſes there is need of another ſort of Reproof, <hi>viz.</hi> That which is,</p>
+            <p n="2">2. An <hi>Authoritative</hi> One. And, if we may obſerve any Contexture in this Chapter of the <hi>Proverbs</hi> of <hi>Solomon,</hi> where my <hi>Text</hi> lyeth; This ſort of Reproof ſeems to be intended: Be<g ref="char:EOLhyphen"/>cauſe the Beginning of this Chapter contains Obſervations concerning Pub<g ref="char:EOLhyphen"/>lick Government, as the <hi>Contents</hi> of the Chapter in our <hi>Bibles</hi> tells us.</p>
+            <p>This ſort of Reproof differs from the former; Inasmuch as it is the Duty of ſome Perſons only, and not of all: And 'tis to be manag'd in ano<g ref="char:EOLhyphen"/>ther way and manner than the other ſort ſhould be.</p>
+            <p n="1">1. I ſay, This <hi>Authoritative Reproof</hi> is the Duty of ſome Perſons only, and not of all: And 'tis eaſy to know of
+<pb n="9" facs="tcp:37587:10"/>whom, <hi>viz.</hi> Such as are in Authority in any <hi>Society,</hi> whether Sacred or Ci<g ref="char:EOLhyphen"/>vil.</p>
+            <p>In <hi>Sacred Societies,</hi> otherwiſe called <hi>Churches,</hi> there muſt be a part in Autho<g ref="char:EOLhyphen"/>rity, and a part under that Authority; A part that is to Govern, and a part that is to be Governed, otherwiſe it is no <hi>Society,</hi> nor doth it deſerve the Name of a <hi>Church,</hi> any more than that Mixt Multitude, which cauſed an Uproar at <hi>Epheſus,</hi> of which you Read in the <hi>19th Chapter</hi> of the <hi>Acts of the Apoſtles.</hi>
+            </p>
+            <p>In thoſe <hi>Societies</hi> there are Officers of <hi>Divine</hi> Appointment, and their <hi>Work,</hi> as well as <hi>Commiſſion,</hi> is from Heaven; which is, not only to <hi>Teach,</hi> but to <hi>Ad<g ref="char:EOLhyphen"/>moniſh</hi> alſo.</p>
+            <p>And, tho' this is evident by <hi>Reaſon,</hi> and the <hi>Light of Nature;</hi> yet, becauſe ſome are apt to think, <hi>it is a hard ſay<g ref="char:EOLhyphen"/>ing,</hi> and will not eaſily <hi>bear it;</hi> Read the Particular Direction, for this purpoſe, to all the Miniſters of <hi>Chriſt,</hi> given im<g ref="char:EOLhyphen"/>mediately indeed to <hi>Titus.</hi>
+               <note place="margin">
+                  <hi>Tit.</hi> 2.15</note> 
+               <hi>Theſe things ſpeak and exhort, and REB<g ref="char:V">Ʋ</g>KE with all Authority. Let no Man deſpiſe thee.</hi>
+               <pb n="10" facs="tcp:37587:11"/>This is one of the things that St. <hi>Paul</hi> gives in Charge, even to young <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> in a moſt Solemn Manner; <hi>Even as in the preſence of God, and the Lord Jeſus Chriſt, who ſhall Judge the Quick and the Dead at his Appearing, and in his Kingdom;</hi> not only, <hi>that he Preach the Word, and be inſtant</hi> therein, even <hi>in Seaſon and out of Seaſon;</hi> But alſo, <hi>that he REPROVE,</hi> and <hi>REB<g ref="char:V">Ʋ</g>KE,</hi> as well as <hi>Exhort, with all Long-Suffering and Doctrine.</hi>
+               <note place="margin">2 <hi>Tim.</hi> 4.1, 2.</note>
+            </p>
+            <p>A Juſt <hi>Decorum</hi> indeed is to be ob<g ref="char:EOLhyphen"/>ſerved, as he Directs elſewhere<note n="*" place="margin">1 <hi>Tim.</hi> 5.1, 2.</note> ; But not to the Prejudice either of his Faith<g ref="char:EOLhyphen"/>fulneſs to God, or the Souls of Men, or the Authority he was Inveſted with. And therefore he is Directed, in ſome Caſes,<note place="margin">
+                  <hi>Tim.</hi> 5 23.</note> 
+               <hi>Publickly, or Before All, to Re<g ref="char:EOLhyphen"/>buke them that Sin, that Others may Fear.</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> 1.13.</note> And <hi>Titus</hi> is Exhorted, to <hi>Re<g ref="char:EOLhyphen"/>buke</hi> ſome <hi>Sharply.</hi>
+            </p>
+            <p>And ſo alſo in <hi>Civil Societies;</hi> This Authoritative Reproof is a Duty In<g ref="char:EOLhyphen"/>cumbent on the Governours thereof, whether they be <hi>Magiſtrates,</hi> in a Nation, City, or any Corporation; or <hi>Parents</hi> and <hi>Governours</hi> of a Family.</p>
+            <p>
+               <pb n="11" facs="tcp:37587:11"/>
+The very End of <hi>Magiſiracy</hi> is, that there might be ſome Authoriſed, and Empower'd to be a Terrour to Evil Doers, and a Praiſe to them that Do Well. For this <hi>GOOD</hi> they are deſign'd and appointed by God,<note place="margin">1 <hi>Pet.</hi> 2.13 14</note> as his Miniſters and Vicegerents For this very Reaſon we are bound to be Sub<g ref="char:EOLhyphen"/>ject to them for Conſcience ſake:<note place="margin">
+                  <hi>Rom.</hi> 13.3</note> And therefore alſo Tribute is Due to them: <hi>Becauſe they do,</hi> or ſhould <hi>attend con<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ally on this VERY thing.</hi> And tho' I will not ſay, if this their Duty be by them neglected, Inferiours may, or ſhould Deny the Honour and Subjecti<g ref="char:EOLhyphen"/>on, or withold that Tribute, which is otherwiſe, undoubtedly, their Due: Yet I will be bold to ſay, ſuch Magi<g ref="char:EOLhyphen"/>ſtrates as do manifeſtly and utterly pervert the very Deſign of their Inſtitu<g ref="char:EOLhyphen"/>tion, do take from their Inferiours that, which, in God's Account, is not due to 'em.</p>
+            <p>As to <hi>Parents</hi> and <hi>Governours</hi> of Fa<g ref="char:EOLhyphen"/>milies; Their Authority, as 'tis not de<g ref="char:EOLhyphen"/>ny'd by any, ſo 'tis alſo deſign'd for the ſame End. And, at preſent, I only In<g ref="char:EOLhyphen"/>treat
+<pb n="12" facs="tcp:37587:12"/>all ſuch, that they would reſolve upon ſuch a Behaviour in their Houſes, as <hi>David</hi> reſolves upon in the 101 <hi>Pſal. Throughout.</hi>
+            </p>
+            <p>Thus have I ſhewn, this is the Duty of ſome, <hi>viz.</hi> Such as are in Authority: Let me add, 'tis the Duty of others al<g ref="char:EOLhyphen"/>ſo; yea, of all, in their ſeveral Places, to endeavour, that this ſort of Reproof may be Adminiſtred by thoſe, whoſe proper Office it is. An Argument this is, That hath been ſeveral Times well Diſcourſed on to ſuch <hi>Societies</hi> as this<note place="margin">
+                  <hi>Vid.</hi> The Sermons of Mr. <hi>D. Williams,</hi> and Mr. <hi>J. Shower.</hi>
+               </note>. And therefore I paſs it now.</p>
+            <p>As this Authoritative Reproof dif<g ref="char:EOLhyphen"/>fers from that which is Fraternal, inas<g ref="char:EOLhyphen"/>much as 'tis the Duty only of ſome, and not of all: So alſo,</p>
+            <p n="2">2. This ſort is to be Managed in a way and manner different from the o<g ref="char:EOLhyphen"/>ther. As might be ſhewn in ſeveral particulars; To Inſtance in one only, i. e. <hi>It ought to be accompanied with pro<g ref="char:EOLhyphen"/>per Impartial Puniſhments.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:37587:12"/>
+Theſe Puniſhments are to be Inflict<g ref="char:EOLhyphen"/>ed according to the Nature of the Of<g ref="char:EOLhyphen"/>fence, and of the Authority or Office, that he is Intruſted, or Inveſted with, that doth, or ought to Inflict it.</p>
+            <p>Every little Fault ought not to be Puniſh'd as if it were a Capital Crime. Nor ſhould the Great Enormities be paſſed by with a ſlight Rebuke, as if they were but Peccadillo's.</p>
+            <p>The Parent, or Maſter of a Family, may not Puniſh as the Magiſtrate doth: But, in ſome Sad Caſes, Parents muſt call in the Aid of the Magiſtrates, or <hi>Call for Juſtice</hi> againſt their own Chil<g ref="char:EOLhyphen"/>dren. And becauſe the <hi>Text</hi> will not only Juſtify your Proceedings, but may ſerve to make you Impartial in your Reſorm<g ref="char:EOLhyphen"/>ing-Work, Read it, as you may find it, Deut. 21.18-22. <hi>If a Man have a Stubborn and Rebellious Son, which will not obey the voice of his Father, or the voice of his Mother, and that when they have chasten'd him, will not hearken to them: Then ſhall his Father and his Mother lay hold on him, and bring him out unto the Elders of the City,</hi> &amp;c.</p>
+            <p>
+               <pb n="14" facs="tcp:37587:13"/>
+And the Puniſhment in the Church of <hi>Chriſt</hi> are different from either.</p>
+            <p>The <hi>Magiſtrate</hi> hath a <hi>Sword</hi> put into his Hand by God Himſelf: Which he muſt not <hi>bear in vain;</hi> But muſt <hi>Vſe</hi> in ſuch Caſes, and for ſuch Ends, as the Law of God and the Land Directs. And if the Magiſtracy be Diſhonour'd, or Deſpis'd, the Magiſtrate may, if he pleaſeth, eaſily Vindicate the Honour of his Office.</p>
+            <p>The Miniſters of Chriſt, in his Church, have a Sword too; I do not mean a Temporal one; But that which is more Terrible, if rightly uſed, <hi>viz.</hi> The Authority committed to them by Chriſt himſelf, whereby Obſtinate Of<g ref="char:EOLhyphen"/>fenders are to be <hi>Cut Off,</hi> and caſt out of the Viſible Church and Kingdom of Chriſt, and Society of Chriſtians. And 'tis this, I doubt not, the <hi>Apoſtle</hi> means in his Direction to <hi>Titus,</hi> Chap. 1.13. <hi>Rebuke them <hi>ſarply.</hi>
+               </hi> You have the <note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Word uſed, once more, evidently in this ſenſe, 2 <hi>Cor.</hi> 13.10. The <hi>Apoſtle</hi> Alludes to the Practice of <hi>Surgeons;</hi>
+               <pb n="15" facs="tcp:37587:13"/>who, at firſt, indeed, ſhould Search the Sore, and try to Heal it. But, if Gent<g ref="char:EOLhyphen"/>ler Methods fail, muſt <hi>Cut away</hi> the Proud, and Dead, and Rotten Fleſh: yea, and the Corrupt Member too, that the Whole Body may be kept from periſhing. And, to this end, doth the Solemn Ordinance of Chriſt, called <hi>Ex<g ref="char:EOLhyphen"/>communication,</hi> ſerve: Which I men<g ref="char:EOLhyphen"/>tion the rather, becauſe, how Bleſſed might the Effects be; If whilſt ſome are endeavouring to Reform the Na<g ref="char:EOLhyphen"/>tion; Thoſe, who are more nearly concern'd, would Concurr with their Attempts, to Reform the Churches of Chriſt therein!</p>
+            <p>Thus have I Explain'd the Duty, and Prov'd, that 'tis the Duty of <hi>All,</hi> to Adminiſter Fraternal Reproof; and, of <hi>Some,</hi> to Adminiſter Authorita<g ref="char:EOLhyphen"/>tive Reproof alſo, <hi>as occaſion requires.</hi>
+            </p>
+            <p>Let me Briefly ſhew, that 'tis a Pri<g ref="char:EOLhyphen"/>vilege to be Reprov'd, and ſo I will conclude the Firſt General Propounded.</p>
+            <p>
+               <pb n="16" facs="tcp:37587:14"/>
+Many are the Advantages that ac<g ref="char:EOLhyphen"/>crue by <hi>Fraternal</hi> Reproof; by which it appears to be a Priviledge: Cer<g ref="char:EOLhyphen"/>tainly there is hardly any greater fe<g ref="char:EOLhyphen"/>licity than a Faithful Friend; who will, with Tenderneſs and Fidelity, admoniſh us, concerning thoſe Errors and Miſcarriages, which Self-Love is apt to hide, from our own Obſer<g ref="char:EOLhyphen"/>vance; or, to excuſe either, as to fact, or fault, or both. The Wiſe Man tells us,<note place="margin">
+                  <hi>Prov.</hi> 27.5, 6.</note> That, <hi>Open Rebuke is better than Secret Love. Faithful are the Wounds of a Friend; But the Kiſſes</hi> (or Flat<g ref="char:EOLhyphen"/>tery) <hi>of an Enemy are Deceitful;</hi> and they are hurtful too. Who, of us, can take up Holy <hi>David's</hi> Words? who, though he was a King, ſaid, <hi>Let the Righteous Smite me;</hi> (For he dare not Slander and Backbite; but) in a Friendly manner give me a Faithful <hi>Wound</hi> (tho' it be a <hi>deep</hi> one) and it ſhall be (not only Deſign'd by him but Eſteem'd by me) a Kindneſs. <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>iet him Reprove me, it ſhall be an Ex<g ref="char:EOLhyphen"/>cellent (Odoriferous</hi> and <hi>Healing) O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:37587:14"/>which ſhall not hreak my Head;</hi> But <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al my Soul: And,<note place="margin">
+                  <hi>Pſal.</hi> 141.5.</note> ſuch as theſe I will not return upon with Recrimi<g ref="char:EOLhyphen"/>nation, or Rage; But, <hi>my Prayer ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> for them, <hi>in their Calamities;</hi> tho', <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erhaps, by reaſon of the ſame Fault they Reprove in me.<note place="margin">
+                  <hi>Eccleſ.</hi> 4.9, 10.</note> 
+               <hi>Two are better <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one; For, if they fall, the one will lift up his Fellow: but woe to him that is alone, when he falleth; For he hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> another to help him up.</hi>
+            </p>
+            <p>Upon this Account, <hi>It is not good that Man ſhould be alone;</hi> which the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>btil and Malicious Tempter knows very well; and therefore, 'tis more than probable, he took the Advan<g ref="char:EOLhyphen"/>tage of our Common Mother's being Abſent from her Husband, when he Tempted her to Eat the Forbidden Fruit. And the Victory of the <hi>Cap<g ref="char:EOLhyphen"/>tain of our Salvation, the Seed of the Woman,</hi> was the more Giorious, By how much the place of Combat was, on the I empters ſide, more Advanta<g ref="char:EOLhyphen"/>gious, <hi>viz.</hi> In a Solitary Wilderneſs.</p>
+            <p>
+               <pb n="18" facs="tcp:37587:15"/>
+How great alſo is the Benefit that Accrues by <hi>Authoritative Reproof!</hi> And that not only to the Party Reproved, but to others alſo.</p>
+            <p n="1">1. Others receive Benefit thereby; Inasmuch as 'tis a means to preſerve the Innocency and Safety of the Whole Community.</p>
+            <p>When the Sins of others, as well as of our ſelves,<note place="margin">
+                  <hi>Eccleſ.</hi> 8.11.</note> go Unpuniſh'd; <hi>and Sen<g ref="char:EOLhyphen"/>tence againſt an Evil Work is not ſpeedily executed; Therefore the heart of the Sons of Men is fully ſet in them to do evil.</hi> But on the contrary, <hi>wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Judgments of the Lord,</hi> (either by his more Immediate Hand,<note place="margin">
+                  <hi>Iſa.</hi> 26.9.</note> or by his Miniſters) <hi>are in the Earth, the In<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bitants of the World will,</hi> ſometimes, <hi>learn Righteouſneſs</hi> thereby. One great <hi>End</hi> of Puniſhment (in this World at leaſt) is to deter others from the like Wicked Practiſes,<note place="margin">
+                  <hi>Deut.</hi> 13.11.17.13.19.20.</note> 
+               <hi>That other may hear and fear, and do no more <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch Wickedneſs; or preſumptuouſty,</hi> i. e. Preſuming upon the account of the preſent Impunity.</p>
+            <p>
+               <pb n="19" facs="tcp:37587:15"/>
+Moreover, hereby the Innocence of the Whole Community is preſerved; in that <hi>the Evil</hi> of the Sin (as well as of the <hi>Puniſhment</hi>) is, in ſome Senſe, <hi>put away</hi> from the <hi>Society,</hi> (Deut. 19 19.)</p>
+            <p>The Crime of a Private Perſon is no longer the Sin of the Publick, when the Governour doth Oppoſe and Pu<g ref="char:EOLhyphen"/>niſh it: Whereas, on the contrary, Tho' <hi>Iniquity be not Eſtabliſh'd by a Law;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, tho' Good Laws be made againſt it; yet, if Sin be Encouraged, by the Neglect of putting thoſe Good Laws in Execution; The Crimes of Private Perſons, and Inferiours, do thereby become the Crimes of Superiours, and the Sins of the Publick; And the Pu<g ref="char:EOLhyphen"/>niſhment alſo will reach Further than the Private Offender. For, as <hi>Inno<g ref="char:EOLhyphen"/>cency</hi> and <hi>Safety;</hi> ſo <hi>Guilt</hi> and <hi>Puniſh<g ref="char:EOLhyphen"/>ment,</hi> are things, which God hath joyn<g ref="char:EOLhyphen"/>ed together, and which none can put aſunder.</p>
+            <p n="2">
+               <pb n="20" facs="tcp:37587:16"/>
+2. And eſpecially this Reproof may be Beneficial to the Party Reproved: And therefore is a Privilege. For, to Inſtance in no more Particulars, 'tis a Remedy to prevent his Sin and Ruin.</p>
+            <p>'Tis Appointed by God himſelf, as a Means, in order to this End, and is accompanied with his Promiſe. What is ſaid to <hi>Parents,</hi> may be apply'd to other Governours;<note place="margin">
+                  <hi>Prov.</hi> 19.18.23.13, 14.</note> 
+               <hi>Chaſten thy So<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> while there is hope, and let not thy So<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſpare for his crying. Withold not Cor<g ref="char:EOLhyphen"/>rection from the Child: For if thou beat<g ref="char:EOLhyphen"/>eſt him with the Rod he ſhall not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Thou ſhalt beat him with the Rod, and ſhalt deliver his ſoul from Hell.</hi> And you know the Reaſon, why the In<g ref="char:EOLhyphen"/>ceſtuous <hi>Corinthian</hi> was to be caſt o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Kingdom,<note place="margin">1 <hi>Cor.</hi> 5.5.</note> or Church of Chriſt <hi>to be deliver'd to Satan; 'twas for the Deſtruction of the Fleſh, and that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spirit might be ſaved in the day of the Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:37587:16"/>
+Moreover, as this is a Means ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted by God, in order to this hap<g ref="char:EOLhyphen"/>pend; ſo, in its own Nature, it hath Tendency thereunto; <hi>For,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 29.15.</note> 
+               <hi>the Rod <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reproof give Wiſdom:</hi> Inaſmuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Rod of God hath a Voice, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaks as Loud, and as Plain ſome<g ref="char:EOLhyphen"/>times, as his Word, and which we are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound to hear, <hi>Micah</hi> 6.9.</p>
+            <p>
+               <hi>Afflictions</hi> and <hi>Puniſhments,</hi> in the General, have a Tendency, if not to Soften, yet to Break the Stony Hearts of Sinners, and Prepare the Way for Inſtruction. It is not altogether a New, and Unheard of Thing,<note place="margin">
+                  <hi>Iſa.</hi> 48.10.</note> if God ſhould Chooſe a Sinner <hi>in the Furnace of Af<g ref="char:EOLhyphen"/>flictions.</hi>
+            </p>
+            <p>If any one ſhould Ask you, What doth it ſignify to lead a Profane <hi>Fool to the Correction of the Stocks?</hi> You may Anſwer, Who knows but when his Feet are Faſten'd there, God may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Merciful unto him, as to <hi>Manaſseh; who,</hi> when <hi>he was took among the Thorns, and bound with Fetters, did, in his Af<g ref="char:EOLhyphen"/>fliction,
+<pb n="22" facs="tcp:37587:17"/>Beſeech the Lord, and humbled himſelf greatly:</hi> As you may Read more at large, 2 <hi>Chron.</hi> 33. In all this I have only ſpoke the Sentiments of <hi>Elihu,</hi> Job 33.</p>
+            <p>And we may the rather hope for this Good Event, when there is no need for Men very narrowly to Enquire; nor is it Difficult to Know, where<g ref="char:EOLhyphen"/>fore the Lord, in his Providence, doth Contend with them But the <hi>Sin is</hi> very Notorious by the <hi>Puniſhment.</hi>
+            </p>
+            <p>I Proceed to the Conſideration of the <hi>Second Part</hi> of my <hi>Text,</hi> wherein you have,</p>
+            <p n="2">II. An heinous ſin <hi>ſuppoſed,</hi> viz. <hi>Obſtinacy</hi> and <hi>Inc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rigibleneſs.</hi> Which ſin is ſet forth by this Expreſſion, <hi>Har<g ref="char:EOLhyphen"/>deneth his Neck.</hi>
+            </p>
+            <p>A Metaphor taken from Unruly Beaſts, ſuppoſe Horſes, that are impa<g ref="char:EOLhyphen"/>tient of reſtraint. St. <hi>James</hi> tells us, the <hi>Tongue is ſuch an unruly Evil,</hi>
+               <note place="margin">
+                  <hi>James</hi> 3.8.</note> 
+               <hi>th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> no Man can Tame:</hi> And there are ſome
+<pb n="23" facs="tcp:37587:17"/>Evil-Talkers, and Evil-Doers, which, like Wild, and Head-ſtrong Horſes, refuſe to be Bettered, or Managed, tho' the Bridle and Whip are both u<g ref="char:EOLhyphen"/>ſed. Let it not ſeem Uncivil to Com<g ref="char:EOLhyphen"/>pare ſuch to Beaſts; For the <hi>Wiſe Man</hi> tells us, <hi>He that hateth Reproof is Bru<g ref="char:EOLhyphen"/>tiſh.</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 12.14</note>
+            </p>
+            <p>By Conſequence this Sin muſt be very heinous; And will appear to be ſo, If you conſider;</p>
+            <p>'Tis a Sin againſt Knowledge. Ig<g ref="char:EOLhyphen"/>norance, tho' it doth not wholly Ex<g ref="char:EOLhyphen"/>cuſe, yet, it doth, in part, Extenuate a Crime, provided it be not Affected. But when a Man ſins againſt Light and Knowledge, his Crime is Aggra<g ref="char:EOLhyphen"/>vated, and himſelf Rendered altoge<g ref="char:EOLhyphen"/>ther Inexcuſable. If the Faults we commit, are, in their own Nature, hei<g ref="char:EOLhyphen"/>nous; yet, if they are done <hi>Ignorant<g ref="char:EOLhyphen"/>ly,</hi> we have more ground to hope we may <hi>obtain Mercy.</hi> But then are our Deeds <hi>very Evil,</hi> when <hi>we hate the Light,</hi> that is manifeſted, and <hi>chooſe,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 1.13.</note> or prefer <hi>Darkneſs</hi> before it, and Live in
+<pb n="24" facs="tcp:37587:18"/>the Practice of the Deeds of Darkneſs, which are <hi>Reproved</hi> by the Light.<note place="margin">
+                  <hi>John</hi> 3.19, 20.</note>
+            </p>
+            <p>Beſides, this Sin muſt be Heinous; Becauſe the Tranſgreſſor Offends a<g ref="char:EOLhyphen"/>gainſt, and after Correction: In Op<g ref="char:EOLhyphen"/>poſition to the Means or Remedy, that is Appointed, and Uſed, in Order to his Amendment.</p>
+            <p>It plainly Argues Pride of Heart; <hi>Contempt</hi> of God and his Ordinan<g ref="char:EOLhyphen"/>ces: It ſhews he hath render'd him<g ref="char:EOLhyphen"/>ſelf like <hi>Pharoah,</hi> who was reſolved upon his Sin; and, 'tis a Sad Sign that he is appointed for Deſtruction. When ſinners arrive to this Pitch of Wick<g ref="char:EOLhyphen"/>edneſs, It ſeems ſomewhat neceſſary that God ſhould ſay,<note place="margin">
+                  <hi>Rev.</hi> 22.11.</note> 
+               <hi>Let them be Fil<g ref="char:EOLhyphen"/>thy ſtill:</hi> That ſince <hi>they will not retain God in their Knowledge, God ſhould give them up to vile Affections,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 1.</note> 
+               <hi>and to a Re<g ref="char:EOLhyphen"/>probate Mind, to do thoſe things which are not Convenient:</hi> And then will the <hi>Arrows, and Inſtruments of Death,</hi> which the <hi>Righteous</hi> and <hi>Angry Judge</hi> hath Prepared;<note place="margin">
+                  <hi>Pſal.</hi> 7.11, 12.13.</note> 
+               <hi>The Sword</hi> of Divine Vengeance, <hi>which he hath whet,</hi> be u<g ref="char:EOLhyphen"/>ſed
+<pb n="25" facs="tcp:37587:18"/>for the Certain, Speedy, Total, Final Overthrow of ſuch Sinners.</p>
+            <p>This brings me to the</p>
+            <p n="3">III. And Laſt Part of my <hi>Text,</hi> which contains a Dreadful Threating, denounc'd againſt ſuch Sinners, and for this Sin. <hi>They ſhall ſuddenly be de<g ref="char:EOLhyphen"/>ſtroy'd, and that without Remedy.</hi>
+            </p>
+            <p>Obſerve the Evil it ſelf that is Threatned; and then the Properties or Aggravations of it.</p>
+            <p n="1">1. Obſerve the Evil it ſelf that is Threatned, which is Total and Fi<g ref="char:EOLhyphen"/>nal. Overthrow. <hi>He that being often reproved hardneth his Neck, ſhall be de<g ref="char:EOLhyphen"/>ſtroyed</hi> utterly, or broken all in pie<g ref="char:EOLhyphen"/>ces. The Mouth of the Lord hath ſpoken it; <hi>He that hates Reproof ſhall Dye.</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 15.10.</note>
+            </p>
+            <p>When <hi>Amaziah,</hi> King of <hi>Judah,</hi> tur<g ref="char:EOLhyphen"/>ned to Idolatry, and bid the <hi>Prophet</hi>
+               <pb n="26" facs="tcp:37587:19"/>forbear Reproving him; Then ſaith the Prophet,<note place="margin">2 <hi>Chron.</hi> 25, 16.</note> 
+               <hi>Now I know that God hath determin'd to deſtroy thee, Becauſe thou haſt done this, and haſt not heark<g ref="char:EOLhyphen"/>ened to my Counſel.</hi> And ſince the <hi>Ca<g ref="char:EOLhyphen"/>non</hi> of Scripture is Compleat, There is no need of a Spirit of Prophecy to know, that the <hi>Nation, City, Town, or Private Perſon,</hi> which remains Unre<g ref="char:EOLhyphen"/>form'd, notwithſtanding all Reproofs, will be Deſtroy'd.</p>
+            <p>I have often thought, that ſuch <hi>So<g ref="char:EOLhyphen"/>cieties</hi> as yours, ſo Generally Spread over this Kingdom, is one of the Beſt <hi>Omens</hi> that we have at this day. But if the Wicked prevail, and you be diſ<g ref="char:EOLhyphen"/>hearten'd, and the Deſign Defeated and Attempts <hi>prove</hi> Ineffectual, and the Profane <hi>Remain</hi> Incorrigible, and Unreformed, and the Contagion of I<g ref="char:EOLhyphen"/>niquity do ſpread, (which God, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Infinite Mercy, prevent.) <hi>Then pre<g ref="char:EOLhyphen"/>pare to meet thy God, O England,</hi> in way of Judgment, more Terrible, per<g ref="char:EOLhyphen"/>haps,<note place="margin">
+                  <hi>Amos</hi> 4.12.</note> than ever thou waſt yet Viſite with.</p>
+            <p>
+               <pb n="27" facs="tcp:37587:19"/>
+If this do not Affect you; Let par<g ref="char:EOLhyphen"/>ticular Sinners Remember, <hi>That if they deſpiſe <hi>This Mercy,</hi> and the Riches of God's Goodneſs and Forbear<g ref="char:EOLhyphen"/>ance, and Long-Suffering, and ſtill har<g ref="char:EOLhyphen"/>den their Impenitent Hearts; They do but Treaſure up Wrath againſt the Day of Wrath, and the Revelation of the Righteous Judgment of God.</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 4.4, 5.</note>
+            </p>
+            <p>The <hi>Wiſe Man</hi> ſaith, <hi>It is better to hear the Rebuke of the Wiſe, than for a Man to hear the Song of Fools.</hi>
+               <note place="margin">
+                  <hi>Eccl.</hi> 7.5.</note> O what happy days do the Profane and Wick<g ref="char:EOLhyphen"/>ed (which are Fools in the <hi>Wiſe Man's</hi> Language and Eſteem,) The <hi>Swearer,</hi> The <hi>Drunkard,</hi> The <hi>Debauched,</hi> The <hi>Sabbath breaker,</hi> think we ſhould have, if they might be allowed to Sin with<g ref="char:EOLhyphen"/>out controul! If there were no more Preaching againſt <hi>Prophaneneſs</hi> and <hi>Immorality,</hi> nor Puniſhment for it! Whereas there is no more Sure Sign of Approaching Deſtruction, than this, When God ſaith to his Miniſters, as to the Prophet Ezekiel; <hi>You ſhall be
+<pb n="28" facs="tcp:37587:20"/>dumb,</hi>
+               <note place="margin">
+                  <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ek.</hi> 3.26.</note> 
+               <hi>and ſhall not be a Reprover to them, For they are a Rebellious Houſe.</hi>
+            </p>
+            <p>You may be ſure that God hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Controverſy with the Land, when there is no Truth, nor Mercy, nor Knowledge of God in it:</hi> But 'tis filled <hi>with Swearing and Lying, and Killing, and Stealing, and committing Adultery; and, when theſe ſins break out,</hi> when they don't lye hid, when they overcome oppoſition, when ſinners act with a Forehead of Braſs, and go on till <hi>blood toucheth blood,</hi> and one ſin cauſeth more; no doubt, I ſay. <hi>But ſuch a Land ſhall Mourn, and the Dwellers therein languiſh;</hi> Eſpecially if God ſay, <hi>Let no Man Strive, nor Re<g ref="char:EOLhyphen"/>prove another,</hi>
+               <note place="margin">
+                  <hi>Hoſ.</hi> 4.1-4.</note> in order to his Amead<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="2">2. Obſerve the Properties, or Ag<g ref="char:EOLhyphen"/>gravations of the Evil that is Threat<g ref="char:EOLhyphen"/>ned; 'Tis <hi>ſudden</hi> and <hi>remedileſs.</hi>
+            </p>
+            <p>'Tis <hi>ſudden</hi> Deſtruction: ſuch ſin<g ref="char:EOLhyphen"/>ners may be cut off with ſwift Ven<g ref="char:EOLhyphen"/>geance. So ſudden, perhaps, ſhall the Stroke be, as was the <hi>Earthquake at
+<pb n="29" facs="tcp:37587:20"/>Port-Royal</hi> in <hi>Jamaica;</hi> when, if ſuch an Abſurdity were true, that the bare Crying, God have Mercy upon them, would ſave their Lives, or their Souls, they ſhould not have time enough al<g ref="char:EOLhyphen"/>low'd even for that. Their ſins tend to this, and the Threatning is plain; For however they may ſlatter them<g ref="char:EOLhyphen"/>ſelves with <hi>Peace and Safety, ſudden Deſtruction ſhall come upon them, as Tra<g ref="char:EOLhyphen"/>vail upon a Woman with Child,</hi> 1 Theſ. 5.3. <hi>And they ſhall not eſeape.</hi>
+            </p>
+            <p>For, as their Puniſhment ſhall be <hi>Sudden,</hi> it ſhall be <hi>Remedileſs</hi> too. Alas! What will Sinners fly, or truſt to then? What can they have, or propoſe, as a ground of hope, or ſafety, in the midſt of their Over-whelming Fears; when <hi>Deſolation, Deſtruction, Diſtreſs</hi> and <hi>Anguiſh</hi> ſhall ſeize them, with the ſurpriſing force of a <hi>Whirlwind?</hi> Will they be ſo Conſident <hi>then,</hi> as <hi>now,</hi> to Diſhonour and Affront the Mercy of God, by pretending to truſt thereto? no; their very <hi>Dope ſhall periſh:</hi> and yet, if it did remain, 'twill <hi>then</hi> ap<g ref="char:EOLhyphen"/>pear to be, what indeed it <hi>always</hi> was,
+<pb n="30" facs="tcp:37587:21"/>Groundleſs, Preſumptuous and Vain <hi>For God will Laugh at <hi>them</hi> when th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> howl and weep; He will Mock <hi>them</hi> in Deriſion <hi>who</hi> deſpiſed his <hi>Reproo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> And thoſe that refuſed to hear when Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> called, and did not regard, tho' Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtretched out his</hi> Willing and Almigh<g ref="char:EOLhyphen"/>ty <hi>hand</hi> of Mercy to Save them; <hi>ſhall then call and cry, but in vain; and tho' they ſeek God early, he will not be found of them:</hi> As you may find, if you Read <hi>Prov.</hi> 1. from <hi>v.</hi> 24. to the End.</p>
+            <p>Now, that I may Conclude, with ſuch an <hi>Application,</hi> as may be moſt Profitable, and Suited alſo to this Pre<g ref="char:EOLhyphen"/>ſent Aſſembly, and the Occaſion there of: Let me Seriouſly Addreſs my ſelf,</p>
+            <p>
+               <hi>Firſt,</hi> To all in General; having alſo a more Particular regard to ſuch as do, or may need, and meet with Reproof. And,</p>
+            <p>
+               <hi>Secondly.</hi> To ſuch of you as are U<g ref="char:EOLhyphen"/>nited in a <hi>Society,</hi> in order to Reprove
+<pb n="31" facs="tcp:37587:21"/>that ſo you may REFORM Offen<g ref="char:EOLhyphen"/>ders.</p>
+            <p n="1">1. More Generall; If what you have heard is true, Let me Beſeech all Perſons to look with a Favourable Eye upon the Laudable Undertaking of thoſe among us; who, from a <hi>Senſe</hi> of their <hi>Duty,</hi> and in hopes of <hi>doing Good,</hi> are Engaged in a Deſign, and do Actually Endeavour the Reforma<g ref="char:EOLhyphen"/>tion of ſuch, as are Enemies to God and the Publick Safety, as well as highly injurious to their own Souls and Bodies and Families.</p>
+            <p>Nay, my Requeſt is not only, that you would Approve of their Deſign, But Aſſiſt them alſ; By your Ready and Hearty Joyning your ſelves unto them; or, at leaſt, by your Serious Frequent Prayer for them, and the Succeſs of their Attempts. Let your Tongues be employ'd in their Vindi<g ref="char:EOLhyphen"/>cation, and your utmoſt Endeavours uſed for their Encouragement.</p>
+            <p>
+               <pb n="32" facs="tcp:37587:22"/>
+And as to ſuch who need, and may meet with Reproof and Puniſhment for their Sins; They ſhould look upon theſe Perſons as the moſt Beneficial Members of the <hi>Town</hi> and <hi>Corporation</hi> and in Particular their Beſt Friends.</p>
+            <p>No Man can, with any Colour of Honeſty, or Charity, Accuſe 'em of Aiming at any Private Worldly Ad<g ref="char:EOLhyphen"/>vantage, in this their Hazardous At<g ref="char:EOLhyphen"/>tempt. 'Tis the Vileſt and moſt Un<g ref="char:EOLhyphen"/>charitable Cenſure, to Charge 'em with Hypocriſy. Your own Conſc<g ref="char:EOLhyphen"/>ences muſt Witneſs to this; That thoſe who are Engaged herein, are ſome of the moſt Peaceable, Juſt, and Virtuous Perſons in all the Neighbour<g ref="char:EOLhyphen"/>hood. (Not that I Accuſe others, who, as yet, Decline the Joyning themſelves to their <hi>Society,</hi> provide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they wiſh well to the Work thereof. How hearty is their Love to your How commendable is their Love to one another? Their Union, I truſt, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> firm in the Beſt, <hi>i. e.</hi> Common-Chri<g ref="char:EOLhyphen"/>ſtian Cauſe; and ſuch, I am Perſwa<g ref="char:EOLhyphen"/>ded, as will not be broken, by Rea<g ref="char:EOLhyphen"/>ſon
+<pb n="33" facs="tcp:37587:22"/>of ſuch Circumſtantials in Religi<g ref="char:EOLhyphen"/>on; as have, ever ſince the <hi>Reforma<g ref="char:EOLhyphen"/>tion,</hi> Deliverance from <hi>Popiſh-Igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>Idolatry,</hi> been the Bones of Contention among us in theſe Lands; and have cauſed ſo many Irreligious Contentions in the Church, and ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch Miſchief, with reſpect to our Civil Intereſts and Concerns. The Amiable and Amicable Agreement, which is ſo apparent among them, and all ſuch <hi>Societies</hi> as theirs; not only in the Vigorous Efforts againſt the Common Enemy, and Chief, if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot the <hi>only</hi> Cauſe of Diviſions; I mean <hi>Licentiouſneſs</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ngodlineſs:</hi> But al<g ref="char:EOLhyphen"/>ſo their Conſent to Meet together for the Pure Worſhip of the Undivided <hi>Trinity;</hi> will, I doubt not, be an Evi<g ref="char:EOLhyphen"/>dent and Permanent Confutation of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he moſt Senſeleſs of all the Objecti<g ref="char:EOLhyphen"/>ons that were ever made againſt them and their Deſign; <hi>That Faction and Schiſm is in Danger to be Promoted <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ereby.</hi>
+            </p>
+            <p>The <hi>Work</hi> theſe Perſons Engage in, is always Neceſſary, and 'tis more eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="34" facs="tcp:37587:23"/>ſo at this Day in our Land. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Method</hi> they have taken, which is, by Acting in Conjunction with, and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aſſiſting one another; Having For<g ref="char:EOLhyphen"/>med themſelves into a <hi>Society</hi> for the Good End; cannot, with any Reaſon be ſpoken againſt.</p>
+            <p>'Tis the moſt likely way to accom<g ref="char:EOLhyphen"/>pliſh the Deſigned End: Eſpecially con<g ref="char:EOLhyphen"/>ſidering the Combination of Devils with Wicked Men againſt 'em And that (to the Reproach of ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtian Nation) <hi>Atheiſts</hi> and <hi>Scoſ<g ref="char:EOLhyphen"/>fers,</hi> with other Profane Perſons, have their conſtant Clubs, and Helliſh Meetings, to defeat their attempts.</p>
+            <p>Moreover, this Method is appro<g ref="char:EOLhyphen"/>ved by many of the Nobility, and Biſhops, and Judges of Both the King<g ref="char:EOLhyphen"/>doms of <hi>England</hi> and <hi>Ireland.</hi> Yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may ſee their Names, to the Num<g ref="char:EOLhyphen"/>ber of Seventy Two, in the Book Entituled, <hi>An Account of the Societi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for Reformation of Manners in</hi> Eng<g ref="char:EOLhyphen"/>land <hi>and</hi> Ireland, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <pb n="35" facs="tcp:37587:23"/>
+And 'tis not only <hi>Approved</hi> by theſe; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut <hi>Actually Promoted</hi> by the <hi>Intereſt</hi> and <hi>Authority,</hi> by the <hi>Power</hi> and <hi>Purſe</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the <hi>Inferiour Magistrates,</hi> and ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are the Wiſeſt and Beſt throughout the Kingdom. I ſpeak this, That their Zeal might Provoke others to this Branch of Love, and Good Works.</p>
+            <p n="2">2. Let me Addreſs my ſelf to thoſe among you, That are United in a <hi>Society,</hi> in Order to Reprove, and ſo Reform Offenders. And what I have to ſay to you, ſhall be by way of En<g ref="char:EOLhyphen"/>couragement and Counſel.</p>
+            <p n="1">1. By way of <hi>Encouragement.</hi> Diſ<g ref="char:EOLhyphen"/>couragements I know you have met with, and do Daily find; But you have more to Encourage you: I pre<g ref="char:EOLhyphen"/>ſume, when you at firſt Reſolved, and Enter'd upon this Work, you did not think, That if you were <hi>Active,</hi> the Devil and his Agents would be <hi>Idle.</hi> You could never Imagine the Enemy would quit the Field, and his
+<pb n="36" facs="tcp:37587:24"/>Poſſeſſions too, without Blows: That the Luſts of Men, which are ſo Powerful of themſelves, would be reſtrained with<g ref="char:EOLhyphen"/>out Reluctance.<note place="margin">
+                  <hi>Eph.</hi> 2.2.</note> That the Devil, <hi>w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Rules in the Children of Diſobedience;</hi> and with the greateſt Precipitance Leads, yea Drives them to Deſtruction; would abandon his Strong Holds, upon the Firſt Summons, and make no Reſiſt<g ref="char:EOLhyphen"/>ance. No; my Brethren: As <hi>Good Soldiers of Jeſus Chriſt,</hi> you muſt Ex<g ref="char:EOLhyphen"/>pect and Prepare to <hi>Endure Hardſhip.</hi> But do not Faint in your Minds. Give no place to the Devil. Be ſtrong in the Lord, and in the Power of his Might.</p>
+            <p>To Encourage you, Conſider your General. Look unto <hi>Jeſus</hi> the Cap<g ref="char:EOLhyphen"/>tain of our Salvation. Remember h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is the Lord of Hoſts, The Lord ſtrong and mighty, The Lord mighty <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Battel.</p>
+            <p>You Fight under his Banner, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is, of Invincible <hi>Courage</hi> and <hi>Power,</hi>
+               <pb n="37" facs="tcp:37587:24"/>of Infallible <hi>Wiſdom</hi> and <hi>Conduct.</hi> Your Enemies are overcome already by him in Fight; and therefore being Defeated, are, in ſome meaſure, diſ<g ref="char:EOLhyphen"/>heartened. There are more for you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en againſt you; if not in Number<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in Power. Greater is he that is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you, than he that is in the World. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Word; There is no Poſſibility of your Loſing the Victory, but by your Cowardiſe or Revolt.</p>
+            <p>Perſiſt therefore in your Attempts. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f you Die in the Quarrel, if you Fall in the Engagement, you have this to Comfort you Now and then; You Act according to your Commanded Duty, in purſuance of your <hi>Baptiſmal <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow;</hi> And alſo in Complyance with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Enacted Laws</hi> of the Land; and the Frequent <hi>Addreſſes</hi> of one part of the <hi>Legiſlative,</hi> and Repeated <hi>Procla<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tions</hi> of the Supreme Executive <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower of this Kingdom. You do that, without which, the Magiſtrate, in a
+<pb n="38" facs="tcp:37587:25"/>very great Meaſure, is unable to per<g ref="char:EOLhyphen"/>form his Duty.</p>
+            <p>The Obloquy of Malicious an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wicked Men, whoſe commendation is ſometimes a Diſcredit, ſhould no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> affect you. For, Believe it, 'tis you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Honour to be engaged with ſo good Company as you have in ſo Good a Work as yours is. You are, in a Senſe Co-workers with God himſelf, and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you ſucceed, may be called the Preſer<g ref="char:EOLhyphen"/>ves of your Country.</p>
+            <p>If you neglect this your Duty, you are Partners in your Neighbours S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and likely to be Sharers in their Puniſh<g ref="char:EOLhyphen"/>ment. If you perſiſt with Wiſdom and Fidelity, you perform an Act <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Beſt Neighbourhood and true<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Love. If you ſucceed, you gain you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Brother, and turn a Sinner from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Errour of his Ways, and ſave a S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from Death. However this may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God will account of you accord<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="39" facs="tcp:37587:25"/>to your Sincere Endeavours, and not according to your Succeſs.</p>
+            <p>And whilſt he Rains down Curſes on Flatterers and Backbiters, your Prayers, and this your Labour of Love, ſhall, at the leaſt, return into your own Boſom: <hi>He that ſaith un<g ref="char:EOLhyphen"/>to the Wicked, Thou art Righteous; him ſhall the People Curſe; Nations ſhall abhor him: But,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 24.24, 25.</note> 
+               <hi>to them that Rebuke him, ſhall be Delight, and a good Bleſſing ſhall come upon them.</hi>
+            </p>
+            <p>You may hope, that you, and your Poſterity ſhall dwell in the Land, as in a Quiet Habitation: But, if all the Methods God hath taken with us, and this of <hi>Raiſing up ſo many to plead for him againſt the Evil Doers;</hi> among the reſt, do prove Ineffectual; and God do come out of his Place, to Pu<g ref="char:EOLhyphen"/>niſh the Inhabitants of the Earth; you, perhaps, <hi>ſhall be gathered to your Graves in Peace,</hi>
+               <note place="margin">2 <hi>Chron.</hi> 34.27, 28.</note> 
+               <hi>neither ſhall your Eyes ſee all the Evil that God will bring
+<pb n="40" facs="tcp:37587:26"/>upon this Place, and the Inhabitants of the ſame:</hi> As God dealt with Good <hi>Joſiah</hi> King of <hi>Judah,</hi> who Attempt<g ref="char:EOLhyphen"/>ed a Work of Reformation in his Days. Or elſe 'tis probable, you ſhall be hid in ſome other of God's <hi>Chan<g ref="char:EOLhyphen"/>bers,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 26.20.</note> 
+               <hi>till his Indignation be over-paſt.</hi> For thoſe that <hi>Sigh and Cry for all the Abominations that are done in the Land:</hi> having alſo Endeavour'd, tho' in vain, to Prevent them; ſhall have <hi>a Mar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſet upon their Foreheads,</hi> which the De<g ref="char:EOLhyphen"/>ſtroying Angel ſhall Regard; <hi>and to ſuch he ſhall not come near to hurt 'em,</hi> when his Commiſſion is,<note place="margin">
+                  <hi>Ezek.</hi> 9.4, 5, 6.</note> 
+               <hi>to go through a Nation, City, or Town, and Smite and Slay utterly Old and Young.</hi>
+            </p>
+            <p>But that your Attempts may have the Deſired more abundant Succeſs, ſuffer now, I beſeech you, the Word of <hi>Exhortation;</hi> And therefore,</p>
+            <p n="2">2. By way of <hi>Counſel.</hi> Let me deſire you often to Read and Conſi<g ref="char:EOLhyphen"/>der
+<pb n="41" facs="tcp:37587:26"/>thoſe Directions that were at firſt given in Writing to your <hi>So<g ref="char:EOLhyphen"/>ciety;</hi> which, being ſo Ample, I have the leſs need to ſay very much here. All that I ſhall add further, ſhall be under theſe Two Generals.</p>
+            <p>
+               <hi>Direct.</hi> 1. Beware of ſuch things <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s will either Prevent, or Fruſtrate your Attempts, in order to Reform Offenders by Due Reproof. Which things, among others, are ſuch as theſe.</p>
+            <p n="1">1. <hi>Self-Guiltineſs.</hi> When the Re<g ref="char:EOLhyphen"/>prover is Guilty of the ſame Crime, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nother as bad, for which he doth Reprove. 'Tis very Natural and Common to ſay, <hi>Phyſician heal thy <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf.</hi> This one thing ſeems to be the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat Cauſe, why <hi>Reformation</hi> is Re<g ref="char:EOLhyphen"/>arded, and Attempts, in order there<g ref="char:EOLhyphen"/>unto, are hinder'd. No wonder that be Plague of Heart doth break out <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scandalouſly in the Life, and that
+<pb n="42" facs="tcp:37587:27"/>one Sinner Infects another, by his Profane Breath and Converſe; wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our Phyſicians themſelves are Sick, and, inſtead of Adminiſtring Re<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dies, do Propagate the Contagion.</p>
+            <p>If a Man that is Guilty himſelf, doth Reprove or Puniſh another, for the ſame Fault; It looks as if this Man Deſign'd the Applauſe of Men, and not the Favour or Approbation <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God. It looks as if he were Affect<g ref="char:EOLhyphen"/>ed with the Itch of Meddling in o<g ref="char:EOLhyphen"/>ther Mens Matters, which makes him Reſtleſs and Uneaſie. 'Tis plain, he is no Enemy to the Sin, for he Love it, and Lives in it himſelf: T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World therefore will think, which doth is out of Ill-will to the Offen<g ref="char:EOLhyphen"/>der's Perſon. Our Bleſſed Savior tells us, He that goes about to p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>out <hi>the Mote</hi> that is in his Brothe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eye,<note place="margin">
+                  <hi>Mat.</hi> 7.3, 4, 5. <hi>Rom.</hi> 2.1.</note> and hath <hi>a Beam</hi> in his ov<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Eye, is a <hi>Hypocrite.</hi> And ſuch Practice will Render you <hi>Inexcuſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and you will be Condemned by you
+<pb n="43" facs="tcp:37587:27"/>own Words and Actions, as well as by the Law and Sentence of God. And, upon ſuch accounts as theſe, 'tis true, if not <hi>the Truth</hi> of my <hi>Text,</hi> as I told you in the beginning of this Diſ<g ref="char:EOLhyphen"/>courſe. <hi>That he that often Reproves another, and remains Obdurate, and <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>reformed himſelf, ſhall ſuddenly be de<g ref="char:EOLhyphen"/>ſtroy'd, and that without Remedy.</hi>
+            </p>
+            <p n="2">2. Beware of <hi>Selſiſhneſs</hi> and <hi>Covetouſ<g ref="char:EOLhyphen"/>neſs.</hi> A Man that is of ſuch a mean Spirit, will have all his Thoughts and Actions confin'd within the narrow compaſs of his little ſelf. With a De<g ref="char:EOLhyphen"/>teſtable Neglect of the Common Good he will venture the Divine Diſ<g ref="char:EOLhyphen"/>pleaſure, rather than endure the An<g ref="char:EOLhyphen"/>gry Look of a Cuſtomer or Bene<g ref="char:EOLhyphen"/>factor.</p>
+            <p n="3">3. Beware of <hi>Slothfulneſs</hi> and <hi>Sinful Cowardice.</hi> Men never attempt the Good of others, or fail therein, Be<g ref="char:EOLhyphen"/>cauſe, whatever their Good Wiſhes are, Their hands refuſe to Labour;
+<pb n="44" facs="tcp:37587:28"/>Or elſe, ſome are of a Servile Com<g ref="char:EOLhyphen"/>plying Temper, that will ſay as o<g ref="char:EOLhyphen"/>thers ſay, and do as others do; or, as others would have 'em ſay or do; be<g ref="char:EOLhyphen"/>cauſe elſe they ſhall Offend, and Diſ<g ref="char:EOLhyphen"/>pleaſe one or other, which they are a<g ref="char:EOLhyphen"/>fraid of. And <hi>Sinful Cowardice,</hi> and <hi>Meanneſs</hi> of <hi>Spirit,</hi> is the true Name of this Temper, though ſome would Adorn it with the Venerable Names of Meeknefs and Moderation.</p>
+            <p>
+               <hi>Direct.</hi> 2. When you have Oppor<g ref="char:EOLhyphen"/>tunity, and any good hopes of Suc<g ref="char:EOLhyphen"/>ceſs, try Milder Methods at firſt, and uſe <hi>Fraternal Reproof,</hi> before <hi>Autho<g ref="char:EOLhyphen"/>ritative</hi> be called for. <hi>Tell him his fault between him and thee alone.</hi> This is the Direction of our Bleſſed Saviour, <hi>Mat.</hi> 18.17. If he be not an Accu<g ref="char:EOLhyphen"/>ſtom'd, Hardened Sinner, perhaps, this will prove the beſt way to gain him And 'tis the Reformation of Offen<g ref="char:EOLhyphen"/>ders, that ought to be your End: By conſequence therefore, 'tis your Duty
+<pb n="45" facs="tcp:37587:28"/>and Wiſdom, both to Propoſe and Proſecute, the Beſt Means in order hereunto.</p>
+            <p>Now, that you may uſe <hi>this</hi> Me<g ref="char:EOLhyphen"/>thod to a Good Purpoſe,<note place="margin">
+                  <hi>Coloſ.</hi> 3.16.</note> 
+               <hi>Let the Word of Chriſt dwell richly in you, with all Wiſdom.</hi> Endeavour to Perſwade thoſe you Reprove, that you Act from Af<g ref="char:EOLhyphen"/>fection to them, and that you De<g ref="char:EOLhyphen"/>ſign their Advantage. Be ſure that you Reprove for a Fault, and be able to Prove both the Fact and the Fault, leaſt the Party you Reprove deny either the one or the other; and you be found either a Falſe Accuſer of your Brethren, or elſe one that ſets up his own Fancy, as the Rule of Sin and Duty.</p>
+            <p>Accommodate your Selves to the Age, Condition, Quality and Rela<g ref="char:EOLhyphen"/>tion of the Party you Reprove. Chooſe Proper Seaſons for this Work.<note place="margin">1 <hi>Sam.</hi> 25.36, 37.</note> 
+               <hi>A<g ref="char:EOLhyphen"/>bigail</hi> deferred her Reproof of <hi>Na<g ref="char:EOLhyphen"/>bal,</hi>
+               <pb n="46" facs="tcp:37587:29"/>till his Drunkenneſs with Wine was over; and 'tis as Unfit a Sea<g ref="char:EOLhyphen"/>ſon, when a Man is Drunk with Paſ<g ref="char:EOLhyphen"/>ſion: For, even <hi>Jonah,</hi> at ſuch a Time,<note place="margin">
+                  <hi>Jonah</hi> 4.9.</note> told God himſelf, <hi>He did well to be Angry even to the Death.</hi>
+            </p>
+            <p>If you Reprove another immedi<g ref="char:EOLhyphen"/>ately after he hath Reproved you, your Reproof, 'tis likely, will be Eſteem'd Recrimination, or Revenge. If you Reprove another in Compa<g ref="char:EOLhyphen"/>ny, when it may be done as well, or, perhaps, better in Private; t'will look more like the Reproach of an Enemy, than the Reproofe of a Friend; or, as if you intended rather to <hi>DE<g ref="char:EOLhyphen"/>FAME,</hi> than <hi>REFORM</hi> him.</p>
+            <p>Moreover, if the Offenders be In<g ref="char:EOLhyphen"/>feriours, ſuch as Children, or Ser<g ref="char:EOLhyphen"/>vants; It is Adviſable, many times that you Acquaint the Parents, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maſters, before you Inform the Ma<g ref="char:EOLhyphen"/>giſtrate.
+<pb n="47" facs="tcp:37587:29"/>And, it may be, the Re<g ref="char:EOLhyphen"/>roof of a Godly Miniſter of Chriſt, may, in ſome Caſes, do more good, man the Pecuniary Mulcts, or Cor<g ref="char:EOLhyphen"/>poral Puniſhments Inflicted by the Magiſtrate.</p>
+            <p>In a Word; Remember your De<g ref="char:EOLhyphen"/>ſign; 'tis the Advantage and Future Innocence of ſuch as Offend: In or<g ref="char:EOLhyphen"/>der thereunto, Study to know, and Labour to Practice the Beſt Methods you can.</p>
+            <p>And, becauſe you are no more than Inſtruments in the hand of God, upon him you muſt Depend for Aſ<g ref="char:EOLhyphen"/>ſiſtance, from him you may expect Succeſs.</p>
+            <p>But, at the ſame time,<note place="margin">
+                  <hi>Rom.</hi> 12.11, 12</note> 
+               <hi>Be ye not ſlothful in Buſineſs, But Fervent in Spirit. Serving the Lord. Rejoycing
+<pb n="48" facs="tcp:37587:30"/>in Hope: Patient in Tribulation: Con<g ref="char:EOLhyphen"/>tinuing Instant in Prayer;</hi>
+            </p>
+            <p>
+               <hi>And the God of all Grace, who hath called us unto his Eternal Glory by Jeſus Chriſt, after that ye have ſuffered a while, make you Perfect, Stabliſh, Strengthen, Settle you.</hi>
+            </p>
+            <p>
+               <hi>To him be Glory and Dominion for ever and ever. <hi>Amen.</hi>
+               </hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37587:30"/>
+            <head>BOOKS Printed for <hi>John Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultrey. 1700.</hi>
+            </head>
+            <p>MR. <hi>Poole</hi>'s Engliſh Annotations on the whole Bible, wherein the Sacred Text is inſerted, together with the various Readings, and Parallel Scriptures, <hi>&amp;c.</hi> In Two Volumes, <hi>Folio.</hi>
+            </p>
+            <p>The Works of the late Reverend Divine Mr. <hi>Stephen Charnock.</hi> In Two Volumes, <hi>Folio.</hi>
+            </p>
+            <p>The Life of the Reverend Mr. <hi>Richard Baxter,</hi> with the Hiſtory of the Times he lived in, Written by himſelf, and Publiſhed by Mr. <hi>Matthew Sylveſter,</hi> in <hi>Folio.</hi>
+            </p>
+            <p>A Funeral Sermon occaſioned by the Death of the Reverend Mr. <hi>Nathanael Vin<g ref="char:EOLhyphen"/>cent,</hi> late Miniſter of the Goſpel in <hi>South<g ref="char:EOLhyphen"/>wark:</hi> Quarto. By Mr. <hi>Nath. Taylor.</hi>
+            </p>
+            <p>Mr. <hi>Lorrimer's</hi> Apology for the Mini<g ref="char:EOLhyphen"/>ſters, who ſubſcribed unto the ſtating of the Truths and Errors in Mr. <hi>VVilliams</hi>'s Book, of <hi>Goſpel Truth ſtated,</hi> from the Exceptions made againſt them by Mr. <hi>Trail, Quarto.</hi>
+            </p>
+            <p>— His Remarks on Mr. <hi>Tho. Goodwin</hi>'s Diſcourſe of the Goſpel, proving that the Goſpel-Covenant is a Law of Grace, and Anſwering the Objections to the contrary, <hi>&amp;c. Quarto.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:37587:31"/>
+Mr. <hi>Showers</hi> Thankſgiving Sermon on the diſcovery of the Aſſaſſination Plot, April 1696. <hi>Quarto.</hi>
+            </p>
+            <p>Mr. <hi>Stephens</hi> of <hi>Sutton</hi> in <hi>Surry,</hi> his Sermon before the Lord Mayor and Aldermen of <hi>London,</hi> at St. <hi>Mary le Bow, January</hi> 30. 1693. <hi>Quarto.</hi>
+            </p>
+            <p>—His Thankſgiving Sermon at the diſcovery of the Aſſaſſination Plot, Preached before the Lord Mayor and Aldermen at St. <hi>Mary le Bow, April</hi> 1696. <hi>Quarto.</hi>
+            </p>
+            <p>Mr. <hi>Slater</hi>'s Thankſgiving Sermon <hi>October</hi> 27. 1692. And his ſeveral Funcral Sermons for Mr. <hi>John Reynolds,</hi> Mr. <hi>Fincher</hi> and Mr. <hi>George Day</hi> Miniſters of the Goſpel, <hi>Quarto.</hi>
+            </p>
+            <p>Mr. <hi>Sam. Clarke</hi> of <hi>Wickham,</hi> his Sermon Preached at the Ordination of Mr. <hi>Gatton</hi> of <hi>Aylsbury, Quarto.</hi>
+            </p>
+            <p>Mr. <hi>Gibbons</hi> Sermon on Juſtification, <hi>Oto.</hi>
+            </p>
+            <p>Mr. <hi>John Howards</hi> Sermon on <hi>Trinity</hi> Sun<g ref="char:EOLhyphen"/>day, 1700. at St. <hi>Pauls</hi> before the Lord Mayor and Court of Aldermen, in defence of the <hi>Trinity. Quarto.</hi>
+            </p>
+            <p>An Effort, againſt Bigottry, and for Chriſtian Catholiciſm, by Mr. <hi>Henry Chand<g ref="char:EOLhyphen"/>ler,</hi> Quarto.</p>
+            <p>A Preſervative againſt Deiſm, ſhewing the Great Advantage of <hi>Revelation</hi> above <hi>Reaſon,</hi> in the Two great Points, <hi>Pardon of Sin</hi> and a <hi>Future State of Happineſs.</hi> With an Appendix in Anſwer to a Letter of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> W.</hi> againſt Revealed Religion, in the <hi>Oracles of Reaſon.</hi> In <hi>Octavo.</hi> By <hi>Nath. Taylor.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb facs="tcp:37587:31"/>
+A Diſcourſe of the <hi>Nature</hi> and <hi>Neceſſity</hi> of Faith in Jeſus Chriſt. With an Anſwer, to the Pleas of our modern <hi>Vnitarians</hi> for the Sufficiency of bare Morality or meer Charity to Salvation. In <hi>Octavo.</hi>
+            </p>
+            <p>Mr. <hi>Shower</hi>'s Mourners Companion: or, Funeral Diſcouurſes on ſeveral Texts. The ſecond Edition in Two Parts. <hi>Octavo.</hi>
+            </p>
+            <p>— His Sermons on <hi>Jſa.</hi> 55.7, 8, 9. <hi>God's Thoughts and Ways above Ours, eſpecially in the Forgiveneſs of Sins,</hi> in <hi>Octavo.</hi>
+            </p>
+            <p>— His Sermon at the Funeral of Mr. <hi>Nath Oldfield,</hi> Decemb. 31. 1696. in Octa.</p>
+            <p>
+               <hi>Catholiciſm without Popery:</hi> An Eſſay to render the Church of <hi>England,</hi> a means and pattern of Union to the Chriſtian World, By a Perſon of Quality, Octavo.</p>
+            <p>Dr. <hi>Burton</hi> of <hi>Barnes</hi> in <hi>Surrey</hi> his Diſ<g ref="char:EOLhyphen"/>courſes of Purity, Charity, Repentance, ſeeking firſt the Kingdom of God, <hi>&amp;c.</hi> pub<g ref="char:EOLhyphen"/>liſhed with a Preface, by Dr. <hi>John Tillotſon,</hi> late Arch-biſhop of <hi>Canterbury,</hi> in Two Volumes. Octavo.</p>
+            <p>Remarks on a late Diſcourſe of <hi>William</hi> Lord Biſhop of <hi>Derry,</hi> concerning the In<g ref="char:EOLhyphen"/>ventions of Men in the Worſhip of God, Alſo a Defence of the ſaid Remarks, againſt his Admonition. By <hi>J. Boyſe</hi> of <hi>Dublin.</hi> Octavo.</p>
+            <p>Biſhop <hi>VVilkins</hi>'s Diſcourſes of the Gift of Prayer and Preaching, the latter much enlarged by the Biſhops of <hi>Nor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch</hi> and <hi>Chicheſter.</hi> Octavo.</p>
+            <p>
+               <pb facs="tcp:37587:32"/>
+Mr. <hi>Slater</hi>'s Call to Family Religion being the Subſtance of 18 Sermons. Octavo.</p>
+            <p>Mr. <hi>Addy</hi>'s <hi>Stenographia,</hi> or the Art of Short-writing compleated in a far more Compendious Method than any yet Extant. Octavo.</p>
+            <p>— His Bible with ſinging-Pſalms in the ſame Short-hand. Octavo.</p>
+            <p>
+               <hi>Cambridge Phraſes.</hi> By <hi>A. Robinſon.</hi> Octavo.</p>
+            <p>
+               <hi>The Curſed Family:</hi> Or, a ſhort Tract, ſhewing the pernicious Influence of wicked <hi>Prayerleſs Houſes,</hi> upon this Church and Kingdom. Humbly tendered by way Sub<g ref="char:EOLhyphen"/>ſerviency to his Majeſty's Royal <hi>Proclama<g ref="char:EOLhyphen"/>tions,</hi> and Acts of Parliament for prevent<g ref="char:EOLhyphen"/>ing and puniſhing <hi>Immorality</hi> and Prophane<g ref="char:EOLhyphen"/>neſs. By <hi>Tho. Riſley,</hi> M. A. ſometime Fellow of <hi>Pembrook-Colledge</hi> in <hi>Oxford.</hi> With a Recommendatory Epiſtle, by the Reverend <hi>Mr. John Howe.</hi> Octavo.</p>
+            <p>The Hiſtory of the Conqueſt of <hi>Florida</hi> by the <hi>Spaniards.</hi> Octavo.</p>
+            <p>
+               <hi>Mr. VVilliam Scoffin</hi>'s Help to True Spel<g ref="char:EOLhyphen"/>ling and Reading; or a very Eaſie Me<g ref="char:EOLhyphen"/>thod for Teaching Children or Elder Per<g ref="char:EOLhyphen"/>ſons rightly to Spell, and exactly to Read Engliſh; with a Scripture Catechiſm, in Octavo.</p>
+            <p>
+               <hi>Monro</hi>'s Latine Grammar, Octavo.</p>
+            <p>
+               <hi>Clavis Grammatica:</hi> Or, The ready way to the <hi>Latine</hi> Tongue, containing moſt plain
+<pb facs="tcp:37587:32"/>Demonſtrations, for the regular Tranſla<g ref="char:EOLhyphen"/>tion of <hi>Engliſh</hi> into <hi>Latine.</hi> Octavo.</p>
+            <p>
+               <hi>Mr. Hamond</hi>'s Sermon at <hi>Mr. Steel</hi>'s Funeral, Octavo.</p>
+            <p>
+               <hi>Mr. Alſop</hi>'s Faithful Rebuke to a falſe Report, and his Vindication of it againſt <hi>Mr. Lobb,</hi> Octavo.</p>
+            <p>Mr. <hi>Aikin</hi>'s Engliſh Grammar: Or, The Engliſh Tongue reduced to Grammatical Rules, compoſed for the Uſe of the Engliſh Schools. Octavo.</p>
+            <p>Sir <hi>Robert Howard</hi>'s Free Diſcourſe, wherein the Doctrines that make for Ty<g ref="char:EOLhyphen"/>tanny are Diſplay'd; and the Title of our Lawful and Rightful King <hi>VVilliam</hi> Vindi<g ref="char:EOLhyphen"/>cated, <hi>&amp;c.</hi> In Octavo.</p>
+            <p>
+               <hi>Mr. Woodhouſe</hi>'s Sermon at <hi>Mrs. Papillon</hi>'s Funeral, Octavo.</p>
+            <p>
+               <hi>Mr. Shower</hi>'s Account of the Life of <hi>Mr. Henry Gearing,</hi> in <hi>Twelves.</hi>
+            </p>
+            <p>— His Family Religion, in Divers Letters, <hi>Twelves.</hi>
+            </p>
+            <p>— His Diſcourſe of Tempting Chriſt. <hi>Twelves.</hi>
+            </p>
+            <p>The whole Duty of <hi>Man.</hi> Epitomiz'd for the Beneſit of the poor, with ſelect Prayers on every Partition, in <hi>Twenty fours.</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>
+               <pb facs="tcp:37587:33"/>
+Mr. <hi>Woodhouſe,</hi> Mr. <hi>Shower,</hi> Mr. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liams,</hi> Mr. <hi>Alſop</hi> and Mr. <hi>Calamy</hi>'s Ser<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before the Societies for <hi>Reformation of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ners.</hi> In Octavo.</p>
+            <p>A Brief Diſcourſe of <hi>Infant-Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> delivered at the Public Baptiſm of an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at <hi>Kingſton</hi> upon <hi>Thames,</hi> June 23, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the Reverend Mr. <hi>Nathanael</hi> Publiſhed with the Author's Conſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Daniel Mayo.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
